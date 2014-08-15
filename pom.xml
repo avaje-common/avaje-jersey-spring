@@ -12,13 +12,13 @@
   <name>avaje-jersey-spring</name>
   <packaging>pom</packaging>
 
-  <url>https://github.com/avaje-common/avaje-jersey-spring</url>
+  <url>https://github.com/avaje-jaxrs/avaje-jersey-spring</url>
   <description>Jersey2, Spring4, Jackson pom only project. Composite pom to simplify these dependencies.</description>
 
   <scm>
-    <connection>scm:git:https://github.com/avaje-common/avaje-jersey-spring.git</connection>
-    <developerConnection>scm:git:https://github.com/avaje-common/avaje-jersey-spring.git</developerConnection>
-    <url>https://github.com/avaje-common/avaje-jersey-spring.git</url>
+    <connection>scm:git:https://github.com/avaje-jaxrs/avaje-jersey-spring.git</connection>
+    <developerConnection>scm:git:https://github.com/avaje-jaxrs/avaje-jersey-spring.git</developerConnection>
+    <url>https://github.com/avaje-jaxrs/avaje-jersey-spring.git</url>
   </scm>
   
   <dependencies>
